@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "800791542089",
+    "project_id": "nature-wallpaper-fc9b9",
+    "storage_bucket": "nature-wallpaper-fc9b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800791542089:android:9014b510d258c997eb0298",
+        "android_client_info": {
+          "package_name": "com.devofindia.naturewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800791542089-rpuukkcdvrdkfjh23r0as0ba5hqq63ac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_O4eO-WkCCItTd1DfZAmaUCGlKEDD0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800791542089-rpuukkcdvrdkfjh23r0as0ba5hqq63ac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

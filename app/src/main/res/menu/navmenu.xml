@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/navhome"
+            android:title="Home"
+            android:icon="@drawable/home"/>
+        <item
+            android:id="@+id/liked"
+            android:title="Liked Images"
+            android:icon="@drawable/heart2"/>
+
+
+        <item android:title="other">
+
+            <menu>
+                <item android:id="@+id/moreapps"
+                    android:title="More Apps"
+                    android:icon="@drawable/android"/>
+                <item
+                    android:id="@+id/shareapp"
+                    android:title="Share"
+                    android:icon="@drawable/share1"/>
+
+                <item
+                    android:id="@+id/feedback"
+                    android:title="Feedback"
+                    android:icon="@drawable/privacy"/>
+
+                <item
+                    android:id="@+id/privacy_policy"
+                    android:title="Privacy_Policy"
+                    android:icon="@drawable/privacy"/>
+            </menu>
+
+        </item>
+
+
+    </group>
+
+</menu>
